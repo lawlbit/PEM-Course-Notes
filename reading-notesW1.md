@@ -8,7 +8,7 @@ Mainly a summary of the document in question.
 ### Definitions and Context
 
 #### Definition Summary
-* Term * | * Definition *
+*Term* | *Definition*
 ---------- | ------------
 Growth | Increase in size
 Maturation | Process toward the mature state
